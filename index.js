@@ -1,9 +1,9 @@
 const funnyExcuse = {
-    getExcuse(activity, place) {
+    getExcuse(activity) {
         try {
             const excuses = require('./excuses.json');
             const excuse = excuses[Math.floor(Math.random() * excuses.length)];
-            return `I can't ${activity} at ${place} because ${excuse}`;
+            return `I can't ${activity} because ${excuse}`;
         } catch (error) {
             throw error;
         }

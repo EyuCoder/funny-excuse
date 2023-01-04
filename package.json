@@ -1,7 +1,7 @@
 {
   "name": "funny-excuse",
   "version": "1.0.1",
-  "description": "An npm package that Generates a random funny excuse based on a given activity or place",
+  "description": "An npm package that Generates a random funny excuse based on a given activity",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
