@@ -1,6 +1,6 @@
 {
   "name": "funny-excuse",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "An npm package that Generates a random funny excuse based on a given activity",
   "main": "index.js",
   "scripts": {
