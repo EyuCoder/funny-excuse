@@ -1,0 +1,16 @@
+{
+  "name": "funny-excuse",
+  "version": "1.0.0",
+  "description": "An npm package that Generates a random funny excuse based on a given activity or place",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "funny excuse",
+    "funny",
+    "excuse"
+  ],
+  "author": "eyucoder",
+  "license": "MIT"
+}
