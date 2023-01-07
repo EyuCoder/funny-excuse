@@ -1,8 +1,10 @@
-# funny-excuse
+# FunnyExcuse
 ## An npm package that Generates a random funny excuse based on a given activity or place
 
 ### install
-`npm i funny-excuse`
+```
+npm i funny-excuse
+```
 
 ### usage
 ```javascript
